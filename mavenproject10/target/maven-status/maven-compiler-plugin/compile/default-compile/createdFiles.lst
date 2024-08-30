@@ -1,0 +1,12 @@
+com\a\servlet\ChatEndpoint.class
+com\a\servlet\ChatServlet.class
+com\a\servlet\HomeServlet.class
+com\a\servlet\NewChat.class
+com\a\servlet\LoginServlet.class
+com\a\servlet\User.class
+com\a\servlet\Message.class
+com\a\servlet\RegistrationServlet.class
+com\mycompany\mavenproject10\JakartaRestConfiguration.class
+com\a\servlet\DatabaseConnection.class
+com\mycompany\mavenproject10\resources\JakartaEE10Resource.class
+com\a\servlet\ConversationsServlet.class
